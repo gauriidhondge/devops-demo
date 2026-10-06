@@ -25,3 +25,4 @@ python -m unittest discover -s tests -v      # run tests
 
 ## CI Workflow
 Developer → GitHub Repository → Jenkins → Build/Test → Build Result
+Auto-build test via Poll SCM
